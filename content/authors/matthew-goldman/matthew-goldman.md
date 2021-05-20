@@ -1,9 +1,8 @@
 ---
 title: Matthew Goldman
-bio: Fintech Entrepreneur
+bio: Fintech entrepreneur
 avatar: "/images/m.png"
 social: []
 featured: false
-draft: true
 
 ---
