@@ -1,10 +1,11 @@
 ---
 title: Matthew Goldman
-bio: Entrepreneur. Now building challenger credit cards.
+bio: fintech entrepreneur
 avatar: "/images/m.png"
-featured: false
 social:
 - title: twitter
   url: https://twitter.com/magoldman
+featured: false
+draft: true
 
 ---
