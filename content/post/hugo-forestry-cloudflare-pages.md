@@ -1,6 +1,7 @@
 ---
 timeToRead: 2
-authors: []
+authors:
+- matthew-goldman
 title: Hugo + Forestry + Cloudflare Pages
 excerpt: ''
 date: 2021-05-20T18:00:00.000+00:00
