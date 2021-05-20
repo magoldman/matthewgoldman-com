@@ -1,19 +1,10 @@
 ---
-title: Thiago Costa
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/thiago-costa.jpg
+title: Matthew Goldman
+bio: Entrepreneur. Now building challenger credit cards.
+avatar: "/images/m.png"
 featured: false
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: twitter
+  url: https://twitter.com/magoldman
+
 ---
