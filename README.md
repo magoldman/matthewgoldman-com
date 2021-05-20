@@ -15,7 +15,7 @@ A port of [Narative](https://www.narative.co/)'s Gatsby theme [Novela](https://w
 This starter is importing the theme as a [Hugo Module](https://gohugo.io/hugo-modules/)
 
 - Go > 1.12
-- Hugo > 0.65.0 
+- Hugo > 0.65.0
 
 ## Content Management
 
