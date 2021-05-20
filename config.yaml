@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://new.matthewgoldman.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "This is Matthew"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
@@ -11,7 +11,7 @@ module:
     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
+  twitter: "@magoldman"
   github: "#"
   instagram: "#"
   linkedin: "#"
