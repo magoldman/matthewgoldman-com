@@ -7,6 +7,7 @@ fields:
   config:
     required: false
   label: Name
+  default: Matthew Goldman
 - name: bio
   type: textarea
   default: ''
@@ -19,7 +20,7 @@ fields:
 - name: avatar
   type: file
   config:
-    maxSize: 250
+    maxSize: 4
   label: Avatar Image
 - name: social
   type: field_group_list
