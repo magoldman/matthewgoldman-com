@@ -1,0 +1,4 @@
+baseURL = 'http://matthewgoldman.com/'
+languageCode = 'en-us'
+title = 'This is Matthew'
+theme = 'ananke'
